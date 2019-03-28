@@ -1,10 +1,10 @@
-#Blogging App
+# Blogging App
 
-##Description
+## Description
 
 This is a basic blogging application built in Ruby on Rails.
 
-##Quickstart
+## Quickstart
 ```
 $ git clone https://github.com/learningtocode101/blog_rails
 $ cd blog_rails
